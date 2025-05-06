@@ -20,3 +20,5 @@ Future Possibilities
 - The PVM is the Python Virtual Machine--the runtime engine of Python that interprets our compiled bytecode.
 - Machine code is the low-level instructions of the underlying CPU on a computing device like a PC or phone.
 - CPython is the standard and reference implementation of the language.
+
+[Chapter 3](https://github.com/cecldwll/learning-python/tree/main/getting-started/chapter3)
