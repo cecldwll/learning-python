@@ -3,13 +3,13 @@
 ### Introducing the Python Interpreter
 
 ### Program Execution
-The Programmer's View
-Python's View
+The Programmer's View  
+Python's View  
 
 ### Execution-Model Variations
-Python Implementation Alternatives
-Standalone Executables
-Future Possibilities
+Python Implementation Alternatives  
+Standalone Executables  
+Future Possibilities  
 
 
 
