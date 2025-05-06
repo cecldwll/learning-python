@@ -1,19 +1,19 @@
-Chapter 2: How Python Runs Programs
+# Chapter 2: How Python Runs Programs
 
-Introducing the Python Interpreter
+## Introducing the Python Interpreter
 
-Program Execution
-    The Programmer's View
-    Python's View
+## Program Execution
+    ### The Programmer's View
+    ### Python's View
 
-Execution-Model Variations
-    Python Implementation Alternatives
-    Standalone Executables
-    Future Possibilities
+## Execution-Model Variations
+    ### Python Implementation Alternatives
+    ### Standalone Executables
+    ### Future Possibilities
 
 
 
-Summary/Notes:
+## Summary/Notes:
     - The Python interpreter is a program that runs the Python programs you write.
     - Source code is the statements you write for your program.
     - Bytecode is the lower-level form of your program after Python compiles it.
