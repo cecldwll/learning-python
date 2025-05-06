@@ -38,3 +38,5 @@ Other Launch Options
 - Each module file is automatically a namespace--that is, a package of variables reflecting the assignments made at the top level of the file.
 - Each module's variables becomes an attribute of the module when it's imported and are accessed by "." qualification or from name copies.
 - Namespaces help avoid name collisions in Python programs: because each module file is a self-contained namespace, files must explicitly import other files in order to use their names.
+
+[Chapter 4](https://github.com/cecldwll/learning-python/tree/main/objects-and-operations/chapter4)
