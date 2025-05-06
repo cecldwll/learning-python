@@ -27,7 +27,7 @@ Other Launch Options
 
 ### Which Option Should I Use?
 
-
+--------------------------------------------------------------------------------------------------------------------------
 
 ## Summary/Notes:
 - A Python interactive session can be started by typing a Python command line in your system's console window.
