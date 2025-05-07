@@ -32,7 +32,7 @@ Other Launch Options
 ## Summary/Notes:
 - A Python interactive session can be started by typing a Python command line in your system's console window.
 - You type system command lines in the same interface used to launch an interactive session by command line.
-- Coode in a script/module file can be run with system command lines, file icon clicks, imports and reloads, the exec built-in function, os module tools, and IDE GUI devices such as IDLE's Run->Run Module menu option.
+- Code in a script/module file can be run with system command lines, file icon clicks, imports and reloads, the exec built-in function, os module tools, and IDE GUI devices such as IDLE's Run->Run Module menu option.
 - Scripts that print and then exit cause the output file to disappear immediately, before you can view the output.
 - Python imports a module only once per process, by default, so if you've changed its source code and want to run the new version without stopping and restarting Python, you'll have to reload it.
 - Each module file is automatically a namespace--that is, a package of variables reflecting the assignments made at the top level of the file.
