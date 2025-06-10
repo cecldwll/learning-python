@@ -9,32 +9,32 @@
 ### Numbers
 
 ### Strings
-Sequence Operations
+Sequence Operations  
 Immutability  
 Type-Specific Operations  
-Getting Help
-Other Ways to Code Strings
-Unicode Strings
+Getting Help  
+Other Ways to Code Strings  
+Unicode Strings  
 
-### Lists
-Sequence Operations
-Type-Specific Operations
-Bounds Checking
-Nesting
-Comprehensions
+### Lists  
+Sequence Operations  
+Type-Specific Operations  
+Bounds Checking  
+Nesting  
+Comprehensions  
 
-### Dictionaries
-Mapping Operations  
-Nesting Revisited  
-Missing Keys: if Tests  
-Item Iteration: for Loops  
+### Dictionaries  
+Mapping Operations    
+Nesting Revisited    
+Missing Keys: if Tests    
+Item Iteration: for Loops    
 
 ### Tuples
-Why Tuples?  
+Why Tuples?    
 
 ### Files 
-Unicode and Byte Files  
-Other File-Like Tools  
+Unicode and Byte Files    
+Other File-Like Tools    
 
 ### Other Object Types
 Sets  
