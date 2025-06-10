@@ -9,11 +9,19 @@
 ### Numbers
 
 ### Strings
-Sequence Operations  
+Sequence Operations
+Immutability  
 Type-Specific Operations  
-Bounds Checking  
-Nesting  
-Comprehensions  
+Getting Help
+Other Ways to Code Strings
+Unicode Strings
+
+### Lists
+Sequence Operations
+Type-Specific Operations
+Bounds Checking
+Nesting
+Comprehensions
 
 ### Dictionaries
 Mapping Operations  
@@ -39,3 +47,6 @@ And Everything Else
 --------------------------------------------------------------------------------------------------------------------------
 
 ## Summary/Notes:
+
+
+[Chapter 5](https://github.com/cecldwll/learning-python/tree/main/objects-and-operations/chapter5)
