@@ -46,7 +46,12 @@ And Everything Else
 
 --------------------------------------------------------------------------------------------------------------------------
 
-## Summary/Notes:
-
+## Summary/Notes:  
+- Numbers, strings, lists, dictionaries, tuples, files, and sets are generally considered to be the core object types.  
+- They are known as 'core' object types because they are part of the Python language itself and are always available. To create other objects, you generally must call functions in imported modules.  
+- An 'immutable' object is an object that cannot be changed after it is created. Numbers, strings, and tuples in Python fall into this category.  
+- A 'sequence' is a positionally ordered collection of objects. Strings, lists, and tuples are all sequences in Python.  
+- The term 'mapping' denotes an object that maps keys to associated values. Python's dictionary is the only mapping among its core object types.  
+- 'Polymorphism' means that the meaning of an operation (like a +) depends on the objects being operated on. (Not contraining code to specific types makes that code automatically applicable to many types.)  
 
 [Chapter 5](https://github.com/cecldwll/learning-python/tree/main/objects-and-operations/chapter5)
